@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Samit
 
-<!--
-**samit403/samit403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Product & Design @ Juspay**  | 💻 Developer exploring AI-assisted coding
 
-Here are some ideas to get you started:
+I’ve recently started coding using tools like **Cursor** and **Claude Code**, and I’m building real products while learning on the go.  
+I’m passionate about **design systems, product development, and AI-powered tools** — and now contributing to open source.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Working On
+- Building an ATS platform for hiring designers (Node.js + Express + Prisma + Postgres).  
+- Creating a **React + Tailwind design system** for SaaS dashboards.  
+- Exploring **AI agents** for enterprise adoption.  
+
+---
+
+### 🛠️ Tech & Tools
+- **Languages & Frameworks**: JavaScript, TypeScript, Node.js, React, Express  
+- **Databases**: PostgreSQL, MongoDB (transitioning via Prisma ORM)  
+- **Dev Tools**: Cursor, VS Code, Prisma, Postman  
+- **Design**: Figma, Radix UI, TailwindCSS  
+
+---
+
+### 🌱 Currently Learning
+- Advanced backend with **Postgres + Prisma**  
+- **Open source contribution workflow** (issues → branches → PRs)  
+- **Flutter** for mobile app development  
+
+---
+
+### 📈 GitHub Stats
+![Samit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/samitbarai)  
+- [Twitter/X](https://x.com/samit403)  
+
+---
+✨ *Always building, learning, and sharing my journey into open source.*
