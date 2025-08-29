@@ -30,7 +30,7 @@ I’m passionate about **design systems, product development, and AI-powered too
 ---
 
 ### 📈 GitHub Stats
-![Samit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Samit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=samit403&show_icons=true&theme=radical)
 
 ---
 
